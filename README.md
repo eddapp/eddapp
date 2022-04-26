@@ -1,19 +1,15 @@
 ### Hi there 👋
 
-<!--
-**eddapp/eddapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ✨ _special_ ✨ 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a replacement for wordpress using django
+- 🌱 I’m currently learning cybersecurity scripting
+- 👯 I’m looking to collaborate on anything
+- 🤔 I’m looking for help with CD | CI
+- 💬 Ask me about django
+- 📫 How to reach me: @ me in the comments
+- ⚡ Fun fact: Valorant ESO SMC Halo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eddapp&show_icons=true&theme=tokyonight)](https://github.com/eddapp/eddapp)
