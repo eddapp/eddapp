@@ -12,19 +12,12 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eddapp&show_icons=true&theme=tokyonight)](https://github.com/eddapp/eddapp)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddapp&&show_icons=true&theme=tokyonight)](https://github.com/eddapp/eddapp)
-
-
 
 <a href="https://github.com/eddapp/eddapp">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=eddapp&hide=contribs&count_private=true&theme=dracula&show_icons=true" alt="Wu Kogan's GitHub Stats" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=eddapp&hide=contribs&count_private=true&theme=tokyonight&show_icons=true" alt="Wu Kogan's GitHub Stats" />
 </a>
 
 
 <a href="https://github.com/eddapp/eddapp">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddapp&count_private=true&theme=dracula&show_icons=true&hide=css&layout=compact&card_width=270" alt="Wu Kogan's Most Used GitHub Languages" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddapp&count_private=true&theme=tokyonight&show_icons=true&hide=css&layout=compact&card_width=270" alt="Wu Kogan's Most Used GitHub Languages" />
 </a>
