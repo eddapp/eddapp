@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eddapp&show_icons=true&theme=tokyonight)](https://github.com/eddapp/eddapp)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eddapp&repo=mirageMarket)](https://github.com/eddapp/mirageMarket/)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddapp)](https://github.com/eddapp/eddapp)
