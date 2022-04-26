@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eddapp&repo=mirageMarket)](https://github.com/eddapp/mirageMarket/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddapp)](https://github.com/eddapp/Mirage-Market)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddapp)](https://github.com/eddapp/eddapp)
