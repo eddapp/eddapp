@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddapp)](https://github.com/eddapp/eddapp)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddapp&&show_icons=true&theme=tokyonight)](https://github.com/eddapp/eddapp)
