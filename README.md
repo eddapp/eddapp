@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eddapp&show_icons=true&theme=tokyonight)](https://github.com/eddapp/eddapp)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eddapp&repo=eddapp)](https://github.com/eddapp/eddapp)
