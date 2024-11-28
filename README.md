@@ -2,13 +2,13 @@
 
  ✨ _special_ ✨ 
 
-- 🔭 I’m currently working on a replacement for wordpress using django
-- 🌱 I’m currently learning cybersecurity scripting
+- 🔭 I’m currently working on Project Zomboid Silo18 World&& encrypted chat application
+- 🌱 I’m currently learning rust && network meshing
 - 👯 I’m looking to collaborate on anything
-- 🤔 I’m looking for help with CD | CI
-- 💬 Ask me about django
+- 🤔 I’m looking for help with game texture (the look and feel of the game)
+- 💬 Ask me about usury
 - 📫 How to reach me: @ me in the comments
-- ⚡ Fun fact: Valorant ESO SMC Halo
+- ⚡ Fun fact: Valorant ESO SMC HP:MA
 
 
 
