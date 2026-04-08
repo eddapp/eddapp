@@ -2,7 +2,7 @@
 
  ✨ _special_ ✨ 
 
-- 🔭 I’m currently working on PZ: Silo18 && encrypted chat application
+- 🔭 I’m currently working on NyxOS - Privacy Arch Linux && encrypted chat application
 - 🌱 I’m currently learning rust && network meshing
 - 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with game texture (the look and feel of the game)
